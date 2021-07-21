@@ -57,30 +57,30 @@ The metrics are all fairly self explanatory. The geometric mean is simply the n-
 
 Using competitions from [Animebracket](https://animebracket.com/), the program was used to rank anime characters:
 
-| Rank | Name                               | Anime                                              | Matches | Wins | Votes In Favour | Votes Against | Win Rate | Attendance | Balance | Elo Rating | Geomean     |
-|------|------------------------------------|----------------------------------------------------|---------|------|-----------------|---------------|----------|------------|---------|------------|-------------|
-| 1    | Kaguya Shinomiya                   | Kaguya-sama: Love is War                           | 9       | 9    | 58331           | 28657         | 100%     | 6481.22    | 2.04    | 1907.83    | 70.82988858 |
-| 2    | Rem                                | Re:ZERO -Starting Life in Another World-           | 21      | 18   | 162908          | 95315         | 86%      | 7757.52    | 1.71    | 1962.76    | 68.72360213 |
-| 3    | Rin Tohsaka                        | Fate/stay night                                    | 38      | 32   | 211466          | 120990        | 84%      | 5564.89    | 1.75    | 2038.69    | 63.92433241 |
-| 4    | Megumin                            | KONOSUBA – God’s Blessing on this wonderful world! | 57      | 49   | 252400          | 124534        | 86%      | 4428.07    | 2.03    | 2143.21    | 63.76762202 |
-| 5    | Mai Sakurajima                     | Seishun Buta Yarou Series                          | 24      | 22   | 106280          | 58125         | 92%      | 4428.33    | 1.83    | 2154.71    | 63.2385937  |
-| 6    | Aqua                               | KONOSUBA – God’s Blessing on this wonderful world! | 53      | 45   | 267298          | 172607        | 85%      | 5043.36    | 1.55    | 2107.10    | 61.13918213 |
-| 7    | Holo                               | Spice and Wolf                                     | 93      | 79   | 419441          | 256560        | 85%      | 4510.12    | 1.63    | 2134.18    | 60.46600898 |
-| 8    | Hitagi Senjougahara                | Monogatari Series                                  | 44      | 38   | 176288          | 99609         | 86%      | 4006.55    | 1.77    | 2108.88    | 59.94727753 |
-| 9    | Shinobu Oshino                     | Monogatari Series                                  | 47      | 40   | 199391          | 120763        | 85%      | 4242.36    | 1.65    | 2105.71    | 59.52306075 |
-| 10   | Ryuuko Matoi                       | Kill la Kill                                       | 83      | 70   | 351355          | 206590        | 84%      | 4233.19    | 1.70    | 2066.89    | 59.51969321 |
-| 11   | Ochako Uraraka                     | My Hero Academia                                   | 31      | 24   | 158068          | 94100         | 77%      | 5098.97    | 1.68    | 1834.94    | 59.06119883 |
-| 12   | Saber                              | Fate/Zero                                          | 79      | 65   | 336109          | 201595        | 82%      | 4254.54    | 1.67    | 2037.97    | 58.72654334 |
-| 13   | Lalatina "Darkness" Dustiness Ford | KONOSUBA – God’s Blessing on this wonderful world! | 40      | 32   | 156133          | 84194         | 80%      | 3903.33    | 1.85    | 1930.83    | 57.82567266 |
-| 14   | Kurisu Makise                      | Steins;Gate                                        | 34      | 31   | 106885          | 58888         | 91%      | 3143.68    | 1.82    | 2144.78    | 57.79606404 |
-| 15   | Yui Yuigahama                      | My youth romantic comedy is wrong as I expected.   | 70      | 57   | 303628          | 192983        | 81%      | 4337.54    | 1.57    | 2004.35    | 57.77024961 |
-| 16   | Ai Hayasaka                        | Kaguya-sama: Love is War                           | 17      | 14   | 61841           | 32287         | 82%      | 3637.71    | 1.92    | 1880.16    | 57.31091707 |
-| 17   | Emilia                             | Re:ZERO -Starting Life in Another World-           | 43      | 35   | 183216          | 124735        | 81%      | 4260.84    | 1.47    | 2026.21    | 56.68115839 |
-| 18   | Mayuri Shiina                      | Steins;Gate                                        | 66      | 53   | 255666          | 160799        | 80%      | 3873.73    | 1.59    | 1981.18    | 55.94918793 |
-| 19   | Mikasa Ackerman                    | Attack on Titan                                    | 64      | 51   | 251709          | 159991        | 80%      | 3932.95    | 1.57    | 1961.35    | 55.76566159 |
-| 20   | Yoko Littner                       | Gurren Lagann                                      | 59      | 46   | 244833          | 153267        | 78%      | 4149.71    | 1.60    | 1870.61    | 55.76119496 |
-| 21   | Violet Evergarden                  | Violet Evergarden                                  | 22      | 18   | 73765           | 41543         | 82%      | 3352.95    | 1.78    | 1948.92    | 55.50807233 |
-| 22   | Winry Rockbell                     | Fullmetal Alchemist                                | 67      | 54   | 268419          | 180472        | 81%      | 4006.25    | 1.49    | 1965.43    | 55.42807312 |
-| 23   | Momo Yaoyorozu                     | My Hero Academia                                   | 22      | 17   | 109701          | 79984         | 77%      | 4986.41    | 1.37    | 1762.05    | 55.2408115  |
-| 24   | Rintarou Okabe                     | Steins;Gate                                        | 69      | 61   | 167901          | 89697         | 88%      | 2433.35    | 1.87    | 2306.61    | 55.20564644 |
-| 25   | Asuna Yuuki                        | Sword Art Online                                   | 41      | 31   | 191504          | 141817        | 76%      | 4670.83    | 1.35    | 1944.61    | 55.18401862 |
+| Rank | Name                               | Anime                                              | Matches | Wins | Votes In Favour | Votes Against | Win Rate | Attendance | Balance | Elo Rating | Geomean |
+|------|------------------------------------|----------------------------------------------------|---------|------|-----------------|---------------|----------|------------|---------|------------|---------|
+| 1    | Kaguya Shinomiya                   | Kaguya-sama: Love is War                           | 9       | 9    | 58331           | 28657         | 100%     | 6481       | 2.04    | 1908       | 70.83   |
+| 2    | Rem                                | Re:ZERO -Starting Life in Another World-           | 21      | 18   | 162908          | 95315         | 86%      | 7758       | 1.71    | 1963       | 68.72   |
+| 3    | Rin Tohsaka                        | Fate/stay night                                    | 38      | 32   | 211466          | 120990        | 84%      | 5565       | 1.75    | 2039       | 63.92   |
+| 4    | Megumin                            | KONOSUBA – God’s Blessing on this wonderful world! | 57      | 49   | 252400          | 124534        | 86%      | 4428       | 2.03    | 2143       | 63.77   |
+| 5    | Mai Sakurajima                     | Seishun Buta Yarou Series                          | 24      | 22   | 106280          | 58125         | 92%      | 4428       | 1.83    | 2155       | 63.24   |
+| 6    | Aqua                               | KONOSUBA – God’s Blessing on this wonderful world! | 53      | 45   | 267298          | 172607        | 85%      | 5043       | 1.55    | 2107       | 61.14   |
+| 7    | Holo                               | Spice and Wolf                                     | 93      | 79   | 419441          | 256560        | 85%      | 4510       | 1.63    | 2134       | 60.47   |
+| 8    | Hitagi Senjougahara                | Monogatari Series                                  | 44      | 38   | 176288          | 99609         | 86%      | 4007       | 1.77    | 2109       | 59.95   |
+| 9    | Shinobu Oshino                     | Monogatari Series                                  | 47      | 40   | 199391          | 120763        | 85%      | 4242       | 1.65    | 2106       | 59.52   |
+| 10   | Ryuuko Matoi                       | Kill la Kill                                       | 83      | 70   | 351355          | 206590        | 84%      | 4233       | 1.70    | 2067       | 59.52   |
+| 11   | Ochako Uraraka                     | My Hero Academia                                   | 31      | 24   | 158068          | 94100         | 77%      | 5099       | 1.68    | 1835       | 59.06   |
+| 12   | Saber                              | Fate/Zero                                          | 79      | 65   | 336109          | 201595        | 82%      | 4255       | 1.67    | 2038       | 58.73   |
+| 13   | Lalatina "Darkness" Dustiness Ford | KONOSUBA – God’s Blessing on this wonderful world! | 40      | 32   | 156133          | 84194         | 80%      | 3903       | 1.85    | 1931       | 57.83   |
+| 14   | Kurisu Makise                      | Steins;Gate                                        | 34      | 31   | 106885          | 58888         | 91%      | 3144       | 1.82    | 2145       | 57.80   |
+| 15   | Yui Yuigahama                      | My youth romantic comedy is wrong as I expected.   | 70      | 57   | 303628          | 192983        | 81%      | 4338       | 1.57    | 2004       | 57.77   |
+| 16   | Ai Hayasaka                        | Kaguya-sama: Love is War                           | 17      | 14   | 61841           | 32287         | 82%      | 3638       | 1.92    | 1880       | 57.31   |
+| 17   | Emilia                             | Re:ZERO -Starting Life in Another World-           | 43      | 35   | 183216          | 124735        | 81%      | 4261       | 1.47    | 2026       | 56.68   |
+| 18   | Mayuri Shiina                      | Steins;Gate                                        | 66      | 53   | 255666          | 160799        | 80%      | 3874       | 1.59    | 1981       | 55.95   |
+| 19   | Mikasa Ackerman                    | Attack on Titan                                    | 64      | 51   | 251709          | 159991        | 80%      | 3933       | 1.57    | 1961       | 55.77   |
+| 20   | Yoko Littner                       | Gurren Lagann                                      | 59      | 46   | 244833          | 153267        | 78%      | 4150       | 1.60    | 1871       | 55.76   |
+| 21   | Violet Evergarden                  | Violet Evergarden                                  | 22      | 18   | 73765           | 41543         | 82%      | 3353       | 1.78    | 1949       | 55.51   |
+| 22   | Winry Rockbell                     | Fullmetal Alchemist                                | 67      | 54   | 268419          | 180472        | 81%      | 4006       | 1.49    | 1965       | 55.43   |
+| 23   | Momo Yaoyorozu                     | My Hero Academia                                   | 22      | 17   | 109701          | 79984         | 77%      | 4986       | 1.37    | 1762       | 55.24   |
+| 24   | Rintarou Okabe                     | Steins;Gate                                        | 69      | 61   | 167901          | 89697         | 88%      | 2433       | 1.87    | 2307       | 55.21   |
+| 25   | Asuna Yuuki                        | Sword Art Online                                   | 41      | 31   | 191504          | 141817        | 76%      | 4671       | 1.35    | 1945       | 55.18   |
