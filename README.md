@@ -51,8 +51,6 @@ Balance: The number of votes in favour divided by the number of votes against.
 
 Attendance: The number of votes in favour divided by the number of matches.
 
-Victory Coefficient: A number that’s 1 for characters that have never reached the finals, 2 for those eliminated in the quarters, 3 for those eliminated in the semis, 4 for the 2nd place and 5 to the winner. Characters always keep their highest coefficient regardless of how many contests they participate in.
-
 The metrics are all fairly self explanatory. The geometric mean is simply the n-th root of the product of all n metrics. We could perhaps have an argument about dropping the Elo rating entirely (and it wouldn't even change the ranking that much), but since it is the only metric presented here that's based on the specific matchups, I chose to keep it in. Different rating systems could be used. TrueSkill and Glicko are good alternatives, but they're also way more complex.
 
 Using competitions from [Animebracket](https://animebracket.com/), the program was used to rank anime characters:
